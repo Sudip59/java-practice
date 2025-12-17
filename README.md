@@ -1,2 +1,2 @@
 # java-practice
-Small Java programs and exercises I created while learning programming and improving my coding skills.
+This repository documents my journey toward mastering Java fundamentals through consistent practice, hands-on exercises, and problem-solving–focused programs.
